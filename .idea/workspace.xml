@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daaf97f9-667e-4554-bf50-462b40269e31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    <list default="true" id="daaf97f9-667e-4554-bf50-462b40269e31" name="Default Changelist" comment="adicionado build do travis ci, pyup e flake8">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,28 @@
       <option name="project" value="LOCAL" />
       <updated>1626914466562</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adicionado build do travis ci, pyup e flake8">
+      <created>1626916068356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626916068390</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adicionado build do travis ci, pyup e flake8">
+      <created>1626916165069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626916165069</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adicionando coberturas de testes (Codecov)">
+      <created>1626917895135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626917895135</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,20 +99,23 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adicionado markdown do travis ci." />
     <MESSAGE value="adicionado build do travis ci." />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionado build do travis ci." />
+    <MESSAGE value="adicionado build do travis ci, pyup e flake8" />
+    <MESSAGE value="adicionando coberturas de testes (Codecov)" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionando coberturas de testes (Codecov)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626915889979">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="449" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1626915889979" />
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1626914467707">
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1626917897447">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1626914467707" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1626917897447" />
   </component>
 </project>
