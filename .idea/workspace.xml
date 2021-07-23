@@ -93,7 +93,28 @@
       <option name="project" value="LOCAL" />
       <updated>1626918363316</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Setup do projeto e arquivo manage.py">
+      <created>1627080962970</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1627080962980</updated>
+    </task>
+    <task id="LOCAL-00008" summary="criado os arquivos para deploy no Heroku.">
+      <created>1627083690619</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627083690619</updated>
+    </task>
+    <task id="LOCAL-00009" summary="criado os arquivos para deploy no Heroku.">
+      <created>1627084695535</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627084695535</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,16 +134,18 @@
     <MESSAGE value="adicionado build do travis ci." />
     <MESSAGE value="adicionado build do travis ci, pyup e flake8" />
     <MESSAGE value="adicionando coberturas de testes (Codecov)" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando coberturas de testes (Codecov)" />
+    <MESSAGE value="Setup do projeto e arquivo manage.py" />
+    <MESSAGE value="criado os arquivos para deploy no Heroku." />
+    <option name="LAST_COMMIT_MESSAGE" value="criado os arquivos para deploy no Heroku." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="449" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627077420820">
+    <state x="449" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627081415245">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="449" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1627077420820" />
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1626918367296">
+    <state x="449" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1627081415245" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1627080977857">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1626918367296" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1627080977857" />
   </component>
 </project>
