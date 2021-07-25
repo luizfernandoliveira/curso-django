@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="daaf97f9-667e-4554-bf50-462b40269e31" name="Default Changelist" comment="adicionado build do travis ci, pyup e flake8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627086411181</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Configurando o &quot;olá Django&quot;">
+      <created>1627176788472</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1627176788472</updated>
+    </task>
+    <task id="LOCAL-00012" summary="criada app base&#10;&#10;close #1">
+      <created>1627177597573</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1627177597573</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +207,9 @@
     <MESSAGE value="adicionando coberturas de testes (Codecov)" />
     <MESSAGE value="Setup do projeto e arquivo manage.py" />
     <MESSAGE value="criado os arquivos para deploy no Heroku." />
-    <option name="LAST_COMMIT_MESSAGE" value="criado os arquivos para deploy no Heroku." />
+    <MESSAGE value="Configurando o &quot;olá Django&quot;" />
+    <MESSAGE value="criada app base&#10;&#10;close #1" />
+    <option name="LAST_COMMIT_MESSAGE" value="criada app base&#10;&#10;close #1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627174550089">
@@ -214,26 +228,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1627174534712" />
-    <state width="1345" height="281" key="GridCell.Tab.0.bottom" timestamp="1627176224135">
+    <state width="1345" height="281" key="GridCell.Tab.0.bottom" timestamp="1627177486123">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="281" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1627176224135" />
-    <state width="1345" height="281" key="GridCell.Tab.0.center" timestamp="1627176224135">
+    <state width="1345" height="281" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1627177486123" />
+    <state width="1345" height="281" key="GridCell.Tab.0.center" timestamp="1627177486123">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="281" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1627176224135" />
-    <state width="1345" height="281" key="GridCell.Tab.0.left" timestamp="1627176224134">
+    <state width="1345" height="281" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1627177486123" />
+    <state width="1345" height="281" key="GridCell.Tab.0.left" timestamp="1627177486122">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="281" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1627176224134" />
-    <state width="1345" height="281" key="GridCell.Tab.0.right" timestamp="1627176224135">
+    <state width="1345" height="281" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1627177486122" />
+    <state width="1345" height="281" key="GridCell.Tab.0.right" timestamp="1627177486123">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="281" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1627176224135" />
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1627080977857">
+    <state width="1345" height="281" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1627177486123" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1627177599343">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1627080977857" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1627177599343" />
     <state x="492" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627143518238">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
