@@ -265,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627358500676</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Configurando o codecov">
+      <created>1627359032338</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1627359032338</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,7 +297,8 @@
     <MESSAGE value="Configurando o &quot;olá Django&quot;" />
     <MESSAGE value="criada app base&#10;&#10;close #1" />
     <MESSAGE value="Criada infra de testes com pytest-django" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criada infra de testes com pytest-django" />
+    <MESSAGE value="Configurando o codecov" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configurando o codecov" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627174550089">
@@ -329,10 +337,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="368" y="58" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1627357645441" />
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1627358504400">
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1627359035531">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1627358504400" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1627359035531" />
     <state x="492" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627143518238">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
