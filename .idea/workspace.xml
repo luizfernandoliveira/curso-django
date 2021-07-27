@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="daaf97f9-667e-4554-bf50-462b40269e31" name="Default Changelist" comment="adicionado build do travis ci, pyup e flake8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -256,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627357844702</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Criada infra de testes com pytest-django">
+      <created>1627358500676</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1627358500676</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,10 +329,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="368" y="58" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1627357645441" />
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1627357851819">
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1627358504400">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1627357851819" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1627358504400" />
     <state x="492" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627143518238">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
