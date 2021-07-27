@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="02766e84-3123-4ed5-831e-f52472130e35" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +228,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627346842196</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Criada a infra de testes com pytest-django">
+      <created>1627347514670</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1627347514670</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Inserida a cobertura de código codecov">
+      <created>1627348733796</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1627348733796</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,7 +267,8 @@
     <MESSAGE value="Configurando o &quot;olá Django&quot;" />
     <MESSAGE value="criada app base&#10;&#10;close #1" />
     <MESSAGE value="Criada a infra de testes com pytest-django" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criada a infra de testes com pytest-django" />
+    <MESSAGE value="Inserida a cobertura de código codecov" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserida a cobertura de código codecov" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627345142785">
@@ -291,10 +307,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="58" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1627346475066" />
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1627346844382">
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1627348735672">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1627346844382" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1627348735672" />
     <state x="492" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627143518238">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
